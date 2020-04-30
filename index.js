@@ -1,17 +1,17 @@
-let baseSalary = 30_000;
-let overtime = 10;
-let rate = 20;
-
-function getWage(baseSalary, overtime, rate) {
-    return baseSalary + (overtime * rate);
+function Circle(radius) {
+    this.radius = radius;
+    this.draw = function () {
+        console.log('draw');
+    }
 }
 
-let employee = {
-    baseSalary: 30_000,
-    overtime: 10,
-    rate: 20,
-    getWage: function () {
-        return this.baseSalary + (this.overtime * this.rate);
+const Circle1 = new Function('radius', `
+        this.radius = radius;
+        this.draw = function(){
+        console.log('draw');
     }
-};
-employee.getWage();
+`);
+
+const circle = new Circle1(1);
+
+const another = new Circle(1);
