@@ -56,7 +56,12 @@
       <workItem from="1588221930452" duration="4464000" />
       <workItem from="1588306618216" duration="916000" />
       <workItem from="1588338189470" duration="6243000" />
-      <workItem from="1588396550406" duration="3656000" />
+      <workItem from="1588396550406" duration="5571000" />
+      <workItem from="1588442881929" duration="332000" />
+      <workItem from="1588994821723" duration="575000" />
+      <workItem from="1589037837332" duration="4015000" />
+      <workItem from="1589189399124" duration="655000" />
+      <workItem from="1589195283293" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="js and html created">
       <created>1587957008836</created>
@@ -79,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588338816594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="enumerating properties">
+      <created>1588402743084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588402743084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,28 +101,29 @@
     <MESSAGE value="js and html created" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="example 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="example 1" />
+    <MESSAGE value="enumerating properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="enumerating properties" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="119" key="CommitChangelistDialog2" timestamp="1588338815919">
+    <state x="105" y="119" key="CommitChangelistDialog2" timestamp="1588402742191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588338815919" />
+    <state x="105" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588402742191" />
     <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1587957079286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587957079286" />
-    <state x="79" y="254" key="Vcs.Push.Dialog.v2" timestamp="1588230968866">
+    <state x="79" y="254" key="Vcs.Push.Dialog.v2" timestamp="1589202659274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588230968866" />
-    <state x="136" y="244" key="run.anything.popup" timestamp="1588095758386">
+    <state x="79" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589202659274" />
+    <state x="136" y="244" key="run.anything.popup" timestamp="1589038638325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588095758386" />
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1588226672710">
+    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589038638325" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589203157615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588226672710" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589203157615" />
   </component>
 </project>
