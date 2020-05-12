@@ -1,11 +1,20 @@
 body{
     background: #2d2d2d;
-    color: #f6f6f6;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    color: #f6f6f6;
+    text-shadow:
+            0 0 5px #fff,
+            0 0 10px #fff,
+            0 0 20px #fff,
+            0 0 40px #0ff,
+            0 0 80px #0ff,
+            0 0 90px #0ff,
+            0 0 100px #0ff,
+            0 0 150px #0ff;
 }
 .stopwatch{
     font-size: 15rem;
@@ -14,8 +23,59 @@ body{
 ul{
     margin: 0;
     padding: 0;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
 }
 ul li{
+    padding: 10px;
+    border: 2px solid #f6f6f6;
+    border-radius: 15px;
+    box-shadow:
+            0 0 5px #fff,
+            0 0 5px #fff,
+            0 0 5px #fff,
+            0 0 10px #0ff,
+            0 0 15px #0ff,
+            0 0 10px #0ff,
+            0 0 15px #0ff,
+            0 0 10px #0ff;
     list-style: none;
-    padding: 10px 0;
+    margin: 10px;
+    text-align: center;
+    font-size: xx-large;
 }
+
+
+body {
+    align-items: center;
+    background-color: #010a00;
+    background-image: url("img/3px-tile.png");
+    display: flex;
+    font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen-Sans,
+    Ubuntu,
+    Cantarell,
+    "Helvetica Neue",
+    sans-serif;
+    font-size: 1rem;
+}
+
+button{
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: x-large;
+}
+button:hover{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.68), rgba(0, 0, 0, 0.92));
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 5px 15px 13px rgba(0, 87, 159, 0.75);
+}
+
+
+
