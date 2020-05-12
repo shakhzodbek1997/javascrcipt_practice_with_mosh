@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d0ca6c-8d1b-427b-96ab-76c617d30b1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/STYLE.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1589037837332" duration="4015000" />
       <workItem from="1589189399124" duration="655000" />
       <workItem from="1589195283293" duration="6083000" />
-      <workItem from="1589278755767" duration="853000" />
+      <workItem from="1589278755767" duration="6318000" />
     </task>
     <task id="LOCAL-00001" summary="js and html created">
       <created>1587957008836</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589279244408</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MY STOPWATCH styled">
+      <created>1589279725333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589279725333</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,13 +137,14 @@
     <MESSAGE value="abstraction" />
     <MESSAGE value="getter and setter" />
     <MESSAGE value="MY STOPWATCH" />
-    <option name="LAST_COMMIT_MESSAGE" value="MY STOPWATCH" />
+    <MESSAGE value="MY STOPWATCH styled" />
+    <option name="LAST_COMMIT_MESSAGE" value="MY STOPWATCH styled" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="119" key="CommitChangelistDialog2" timestamp="1589279243781">
+    <state x="105" y="119" key="CommitChangelistDialog2" timestamp="1589279724797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589279243781" />
+    <state x="105" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589279724797" />
     <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1587957079286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -145,10 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="79" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589204586717" />
-    <state x="136" y="244" key="run.anything.popup" timestamp="1589038638325">
+    <state x="136" y="244" key="run.anything.popup" timestamp="1589284272741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589038638325" />
+    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589284272741" />
     <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589203157615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
