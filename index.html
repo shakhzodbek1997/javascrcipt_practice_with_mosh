@@ -2,12 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>OOP_with_MOSH</title>
+    <title>OOP_with_MOSH StopWatch task</title>
     <script src="index.js"></script>
 </head>
 <body>
-<div>
- <h1 style="text-align: center; margin-top: 10rem">OOP practice with Mosh</h1>
+
+<div class="controls">
+    <button onclick="start()">Start</button>
+    <button onclick="pause()">Pause</button>
+    <button onclick="stop()">Stop</button>
+    <button onclick="restart()">Restart</button>
+    <button onclick="lap()">Lap</button>
+    <button onclick="resetLaps()">Reset Laps</button>
 </div>
+
+<div class="stopwatch">00:00:00</div>
+<ul class="laps">
+
+</ul>
+
 </body>
 </html>
